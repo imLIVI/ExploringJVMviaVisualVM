@@ -1,2 +1,5 @@
 .idea
 jvm-visualvm-experience
+*.psd
+*.txt
+*.png
